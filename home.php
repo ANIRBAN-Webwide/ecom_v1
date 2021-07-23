@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    "Yoo Bitches";
+    "Yoo Delta";
 </body>
 </html>
